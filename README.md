@@ -12,7 +12,7 @@ Projeto final do Gama Experience #40. A proposta foi desenvolver um site em que 
 #### Repositório da API: https://github.com/kevinfinalboss/api-royalcoffe
 ---
 
-![Gif de apresentação da Home do projeto](public/royalcoffeespa.gif)
+<img src="public/royalcoffeespa.gif" width="250" height="250"/>
 
 ## 📌 Seções
 Site composto:
